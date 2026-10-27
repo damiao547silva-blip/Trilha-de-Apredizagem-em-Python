@@ -13,7 +13,7 @@ def mostrar_soma(n1, n2):
     print(f"A soma de {n1} + {n2} é {soma}")
 
 
-n1 = float(input("Digite o primeiro número: "))
-n2 = float(input("Digite o segundo número: "))
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
 
-mostrar_soma(n1, n2)
+mostrar_soma(numero1, numero2)
